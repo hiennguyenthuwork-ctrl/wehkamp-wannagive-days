@@ -31,7 +31,7 @@ Wehkamp wanted to:
 - Only **5.4%** reached long streaks (≥7 days)
 
 **Business Impact**
-[Business Performance]!(visualizations/campaign_performance.jpeg)
+![Business Performance](visualizations/campaign_performance.jpeg)
 - Generated **€310,341** incremental revenue (+€0.88 daily lift per participant)
 - Orders increased **+38%** and demand **+30%** during the campaign
 - Participants outperformed non-participants by **2–3×** in orders & demand
