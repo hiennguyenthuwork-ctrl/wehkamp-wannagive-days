@@ -84,7 +84,7 @@ Wehkamp-Wannagive-Days/
 ## How to Run the Code
 
 ```bash
-git clone https://github.com/yourusername/Wehkamp-Wannagive-Days.git
+git clone https://github.com/hiennguyenthuwork-ctrl/wehkamp-wannagive-days.git
 cd Wehkamp-Wannagive-Days
 
 # Restore R environment
