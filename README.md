@@ -71,8 +71,6 @@ Wehkamp-Wannagive-Days/
 │   ├── 02_streak_calculation.R
 │   ├── 03_bug_detection.R
 │   └── 04_business_impact.R
-├── notebooks/
-│   └── Wehkamp_Analysis.Rmd
 ├── reports/
 │   ├── Final_Presentation.pdf
 │   └── Executive_Summary.pdf
